@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://haman29.github.com/atom.xml" rel="self"/>
+  <link href="http://haman29.github.com/"/>
+  <updated>2013-02-11T01:01:51+09:00</updated>
+  <id>http://haman29.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Octopress]]></title>
+    <link href="http://haman29.github.com/blog/2013/02/11/hello-octopress/"/>
+    <updated>2013-02-11T00:52:00+09:00</updated>
+    <id>http://haman29.github.com/blog/2013/02/11/hello-octopress</id>
+    <content type="html"><![CDATA[<h2>はじめてのOctopress</h2>
+
+<ul>
+<li>すげえ
+
+<ul>
+<li>こりゃ
+
+<ul>
+<li>いかしてるね</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="nb">puts</span> <span class="s2">&quot;Hello Octopress&quot;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+</feed>

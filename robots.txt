@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://haman29.github.com/sitemap.xml 
