@@ -11,6 +11,6 @@ categories:
     * こりゃ
         * いかしてるね
 
-```ruby
-puts "Hello Octopress"
-```
+{% codeblock Time to be Awesome - awesome.rb %}
+puts "Awesome!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" unless lame
+{% endcodeblock %}
