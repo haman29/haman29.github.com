@@ -4,7 +4,7 @@
   <title><![CDATA[haman29.github.com]]></title>
   <link href="http://haman29.github.com/atom.xml" rel="self"/>
   <link href="http://haman29.github.com/"/>
-  <updated>2013-02-11T22:21:08+09:00</updated>
+  <updated>2013-02-11T22:25:30+09:00</updated>
   <id>http://haman29.github.com/</id>
   <author>
     <name><![CDATA[Kyohei Hamada]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Qiita 2-day Hackathon に参加しました]]></title>
-    <link href="http://haman29.github.com/blog/2013/02/11/slash-number-qiita-hackathon-nican-jia-simasita/"/>
+    <link href="http://haman29.github.com/blog/2013/02/11/qiita-2-day-hackathon/"/>
     <updated>2013-02-11T17:56:00+09:00</updated>
-    <id>http://haman29.github.com/blog/2013/02/11/slash-number-qiita-hackathon-nican-jia-simasita</id>
+    <id>http://haman29.github.com/blog/2013/02/11/qiita-2-day-hackathon</id>
     <content type="html"><![CDATA[<p>先週の土日まるっとハッカソンイベントがあったので参加してきました．</p>
 
 <p>ちょっと遅くなりましたが，作ったプロダクトの紹介と思うことを書きます．</p>
