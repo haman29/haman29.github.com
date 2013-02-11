@@ -4,7 +4,7 @@
   <title><![CDATA[Endless Programmer]]></title>
   <link href="http://haman29.github.com/atom.xml" rel="self"/>
   <link href="http://haman29.github.com/"/>
-  <updated>2013-02-11T02:50:34+09:00</updated>
+  <updated>2013-02-11T13:43:09+09:00</updated>
   <id>http://haman29.github.com/</id>
   <author>
     <name><![CDATA[Kyohei Hamada]]></name>
@@ -35,9 +35,12 @@
 </ul>
 
 
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="nb">puts</span> <span class="s2">&quot;Hello Octopress&quot;</span>
+<figure class='code'><figcaption><span>Time to be Awesome - awesome.rb </span></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='rb'><span class='line'><span class="nb">puts</span> <span class="s2">&quot;Awesome!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!&quot;</span> <span class="k">unless</span> <span class="n">lame</span>
 </span></code></pre></td></tr></table></div></figure>
+
+
 
 ]]></content>
   </entry>
