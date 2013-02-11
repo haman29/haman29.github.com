@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://haman29.github.com
-title: Endless Programmer
-subtitle: PHP/Ruby/Vim
+title: haman29.github.com
+subtitle: 主にプログラミングネタを扱います
 author: Kyohei Hamada
 simple_search: http://google.com/search
-description:
+description: PHP/Ruby/Python/Vim
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -72,7 +72,7 @@ twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -96,4 +96,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
