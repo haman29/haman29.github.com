@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[haman29.github.com]]></title>
-  <link href="http://haman29.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: hackathon | haman29.github.com]]></title>
+  <link href="http://haman29.github.com/blog/categories/hackathon/atom.xml" rel="self"/>
   <link href="http://haman29.github.com/"/>
   <updated>2013-02-11T22:21:08+09:00</updated>
   <id>http://haman29.github.com/</id>
@@ -97,10 +97,10 @@
 <h3>思うこと</h3>
 
 <ul>
-<li><p>初めてのハッカソン，初めてのRails，初めてのHeroku，初めてのGithub API&#8230; と初めてのことだらけでしたが，動くものが作れて良かったです．(ただ，それをデモで見せれなかったのは良くなかった..)</p></li>
+<li><p>初めてのハッカソン，初めてのRails，初めてのHeroku，初めてのGithub API... と初めてのことだらけでしたが，動くものが作れて良かったです．(ただ，それをデモで見せれなかったのは良くなかった..)</p></li>
 <li><p>課題の残るハッカソンでしたが，次にこの経験を生かせるようにしたいです．</p></li>
 <li><p>他の参加者の方々が作られたプロダクトは完成度の高いものが多くて，良い刺激になりました．</p></li>
-<li><p>次はチーム開発したいなあ&#8230;</p></li>
+<li><p>次はチーム開発したいなあ...</p></li>
 </ul>
 
 
