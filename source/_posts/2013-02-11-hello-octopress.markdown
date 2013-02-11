@@ -10,7 +10,8 @@ categories:
 * すげえ
     * こりゃ
         * いかしてるね
+{% gist haman29/4304009 %}
 
-{% codeblock Time to be Awesome - awesome.rb %}
+```ruby
 puts "Awesome!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" unless lame
-{% endcodeblock %}
+```
